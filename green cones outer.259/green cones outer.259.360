@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 30,
+    "horizontalStartingIndex": 15,
+    "horizontalWrap": true,
+    "name": "green cones outer.259",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
